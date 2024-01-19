@@ -5,4 +5,3 @@ export default defineConfig({
 	base: "/flappy-bird/",
 })
 
-// Add resolve.alias to map "kaboom" to the Kaboom.js library

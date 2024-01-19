@@ -1,6 +1,4 @@
 import kaboom from 'kaboom'
-console.log('help')
-const k = kaboom()
 
 loadSprite('bird', 'sprites/bird.png')
 loadSprite('bg', 'sprites/bg.png')
